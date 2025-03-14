@@ -62,3 +62,6 @@ managed_services = klipper
 primary_branch = main
 install_script = install.sh
 
+[file_manager]
+enable_object_processing = True
+
